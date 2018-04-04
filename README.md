@@ -1,7 +1,6 @@
-# Trajectory_Generation_No_Wind
+# Aircraft_Trajectory_Generation
 
 ##### This is the companion code for [Flight Trajectory Planning for Fixed-Wing Aircraft in Loss of Thrust Emergencies](http://wcl.cs.rpi.edu/papers/trajectory_tech_report_oct_17.pdf "Research Paper")
-
 
 ##### Sample Images:
 
