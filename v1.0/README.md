@@ -1,4 +1,4 @@
-# Trajectory_Generation_No_Wind
+# Aircraft_Trajectory_Generation
 
 The instructions for using the trajectory generation software are given below:
 
