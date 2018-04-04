@@ -6,12 +6,9 @@
 
 ##### Sample Images:
 
-![alt text](https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts2d.png)![alt text](https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts3d.png)
-
-
 <p float="left">
-  <img src="https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts2d.png" width="30%" />
-  <img src="https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts3d.png" width="30%" /> 
+  <img src="https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts2d.png" width="60%" />
+  <img src="https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts3d.png" width="60%" /> 
 </p>
 
 ##### DISCLAIMER: 
