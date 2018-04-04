@@ -21,13 +21,13 @@ The instructions for using the trajectory generation software are given below:
 
 * The zip file contains a file named '1549_data' that contains the parameters for the runways and the parameters for the various time instances that can be used to recreate the experiments in section VII-B of the paper.
 
-### Known bugs:
+##### Known bugs:
 The spirals for the high altitude trajectories come out wrong in certain cases. 
 This usually has to be manually dealt with in the function `generate_circles()` in `helper.c` where the angle needs to be adjusted for each specific airport. 
 Once fixed, however, all trajectories to that airport can be generated smoothly.
 
-### Note: 
+##### Note: 
 {dubins.c, dubins.h} - Copyright (c) 2008-2014, [Andrew Walker](https://github.com/AndrewWalker "Github Link")
 
-### DISCLAIMER: 
+##### DISCLAIMER: 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
