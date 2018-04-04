@@ -6,11 +6,11 @@ This is an open source project.
 
 The instructions for using the trajectory generation software are given below:
 
-* Create a configuration file with the name 'config.txt' in the following format: 
-		initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio
+* Create a configuration file with the name `config.txt` in the following format: 
+		`initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio`
 
 
-* For generating trajectories, create a config.txt file in the above format, put 'generate' and 'visualize.py' (for viewing the trajectories in 2D and 3D) in the same folder along with the 'config.txt' file and type:
+* For generating trajectories, create a `config.txt` file in the above format, put 'generate' and 'visualize.py' (for viewing the trajectories in 2D and 3D) in the same folder along with the `config.txt` file and type:
 
 
 	`$./generate` (To generate trajectories with 20, 30 and 45 degree bank angles)
