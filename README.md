@@ -23,17 +23,10 @@ The instructions for using the trajectory generation software are given below:
 
 ##### Sample Images:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/High2d_with_%20extended_runway.png )
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/High3d_with_%20extended_runway.png )
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ##### Known bugs:
 The spirals for the high altitude trajectories come out wrong in certain cases. 
 This usually has to be manually dealt with in the function `generate_circles()` in `helper.c` where the angle needs to be adjusted for each specific airport. 
