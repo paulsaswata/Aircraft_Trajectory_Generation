@@ -35,4 +35,4 @@ Once fixed, however, all trajectories to that airport can be generated smoothly.
 ##### Note: 
 {dubins.c, dubins.h} - Copyright (c) 2008-2014, [Andrew Walker](https://github.com/AndrewWalker "Github Link")
 
-##### ************************************************************ This is an open source project. ************************************************************
+##### ************************************************************** This is an open source project. **************************************************************
