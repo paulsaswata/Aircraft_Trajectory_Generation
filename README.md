@@ -23,9 +23,9 @@ The instructions for using the trajectory generation software are given below:
 
 ##### Sample Images:
 
-![alt text](https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/High2d_with_%20extended_runway.png )
+![alt text](https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts2d.png)
 
-![alt text](https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/High3d_with_%20extended_runway.png )
+![alt text](https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts3d.png)
 
 ##### Known bugs:
 The spirals for the high altitude trajectories come out wrong in certain cases. 
