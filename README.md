@@ -2,7 +2,7 @@
 
 This is the companion code for [Flight Trajectory Planning for Fixed-Wing Aircraft in Loss of Thrust Emergencies](http://wcl.cs.rpi.edu/papers/trajectory_tech_report_oct_17.pdf "Research Paper")
 
-This is an open source project.
+###### This is an open source project.
 
 The instructions for using the trajectory generation software are given below:
 
@@ -19,7 +19,7 @@ The instructions for using the trajectory generation software are given below:
 	`$python visualize.py` (To visualize the generated trajectory)
 
 
-* The zip file contains a file named '1549_data' that contains the parameters for the runways and the parameters for the various time instances that can be used to recreate the experiments in section VII-B of the paper.
+* The zip file contains a file named `1549_data` that contains the parameters for the runways and the parameters for the various time instances that can be used to recreate the experiments in section VII-B of the paper.
 
 ##### Sample Images:
 
