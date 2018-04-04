@@ -1,7 +1,5 @@
 # Trajectory_Generation_No_Wind
 
-##### ************************************************************* This is an open source project. *************************************************************
-
 The instructions for using the trajectory generation software are given below:
 
 * Create a configuration file with the name `config.txt` in the following format: 
@@ -27,6 +25,7 @@ Once fixed, however, all trajectories to that airport can be generated smoothly.
 ##### Note: 
 {dubins.c, dubins.h} - Copyright (c) 2008-2014, [Andrew Walker](https://github.com/AndrewWalker "Github Link")
 
+##### ************************************************************* This is an open source project. *************************************************************
 ##### DISCLAIMER: 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
