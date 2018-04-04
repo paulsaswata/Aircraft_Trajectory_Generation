@@ -13,10 +13,10 @@ The instructions for using the trajectory generation software are given below:
 * For generating trajectories, create a config.txt file in the above format, put 'generate' and 'visualize.py' (for viewing the trajectories in 2D and 3D) in the same folder along with the 'config.txt' file and type:
 
 
-	'$./generate' (To generate trajectories with 20, 30 and 45 degree bank angles)
+	`$./generate` (To generate trajectories with 20, 30 and 45 degree bank angles)
 
 
-	'$python visualize.py' (To visualize the generated trajectory)
+	`$python visualize.py` (To visualize the generated trajectory)
 
 
 * The zip file contains a file named '1549_data' that contains the parameters for the runways and the parameters for the various time instances that can be used to recreate the experiments in section VII-B of the paper.
