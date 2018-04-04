@@ -4,10 +4,6 @@ This is the companion code for Flight Trajectory Planning for Fixed-Wing Aircraf
 
 This is an open source project.
 
-
-The zip file containing the source code and the executable for generating trajectories can be downloaded below:
-
-(trajectory_generator_v0.1.zip)
 The instructions for using the trajectory generation software are given below:
 
 * Create a configuration file with the name 'config.txt' in the following format: 
