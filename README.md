@@ -6,7 +6,7 @@
 
 ##### Sample Images:
 
-<p float="left" align="middle>
+<p float="left" align="middle">
   <img src="https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts2d.png" width="50%" />
   <img src="https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts3d.png" width="50%" /> 
 </p>
