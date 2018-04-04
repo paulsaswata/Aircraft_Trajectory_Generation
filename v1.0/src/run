@@ -1,0 +1,7 @@
+#!/bin/bash
+gcc -c dubins.c -o dubins.o -lm
+gcc -c demo.c -o demo.o -lm
+gcc -c helper.c -o helper.o -lm
+gcc -c test.c -o test.o -lm
+gcc test.o helper.o demo.o dubins.o -o test -lm 
+./test
