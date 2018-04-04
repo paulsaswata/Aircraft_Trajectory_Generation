@@ -10,7 +10,7 @@ The instructions for using the trajectory generation software are given below:
 		`initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio`
 
 
-* For generating trajectories, create a `config.txt` file in the above format, put 'generate' and 'visualize.py' (for viewing the trajectories in 2D and 3D) in the same folder along with the `config.txt` file and type:
+* For generating trajectories, create a `config.txt` file in the above format, put `generate` and `visualize.py` (for viewing the trajectories in 2D and 3D) in the same folder along with the `config.txt` file and type:
 
 
 	`$./generate` (To generate trajectories with 20, 30 and 45 degree bank angles)
@@ -23,7 +23,7 @@ The instructions for using the trajectory generation software are given below:
 
 ### Known bugs:
 The spirals for the high altitude trajectories come out wrong in certain cases. 
-This usually has to be manually dealt with in the function generate_circles() in helper.c where the angle needs to be adjusted for each specific airport. 
+This usually has to be manually dealt with in the function `generate_circles()` in `helper.c` where the angle needs to be adjusted for each specific airport. 
 Once fixed, however, all trajectories to that airport can be generated smoothly.
 
 ### Note: 
