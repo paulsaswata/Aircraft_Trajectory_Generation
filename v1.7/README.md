@@ -26,7 +26,7 @@ The instructions for using the trajectory generation software are given below:
 {dubins.c, dubins.h} - Copyright &copy; 2008-2014, [Andrew Walker](https://github.com/AndrewWalker "Github Link")
 
 ##### DISCLAIMER: 
-Copyright &copy; 2017 Saswata Paul
+Copyright &copy; 2018 Saswata Paul
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
