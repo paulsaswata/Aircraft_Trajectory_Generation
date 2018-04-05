@@ -3,13 +3,13 @@
 The instructions for using the trajectory generation software are given below:
 
 * Create a configuration file with the name `config.txt` in the following format: 
-		`initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio`
+		`initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio,best_gliding_speed,bank_angle`
 
 
 * For generating trajectories, create a `config.txt` file in the above format, put `generate` and `visualize.py` (for viewing the trajectories in 2D and 3D) in the same folder along with the `config.txt` file and type:
 
 
-	`$./generate` (To generate trajectories with 20, 30 and 45 degree bank angles)
+	`$./generate` (To generate trajectories with provided bank angle only)
 
 
 	`$python visualize.py` (To visualize the generated trajectory)
@@ -21,11 +21,7 @@ The instructions for using the trajectory generation software are given below:
 * The `src` folder contains the C source files.
 
 ##### Known bugs:
-* The spirals for the high altitude trajectories come out wrong in certain cases. 
-This usually has to be manually dealt with in the function `generate_circles()` in `helper.c` where the angle needs to be adjusted for each specific airport. 
-Once fixed, however, all trajectories to that airport can be generated smoothly.
 * Static memory allocation is prone to `segmentation fault`
-
 ##### Note: 
 {dubins.c, dubins.h} - Copyright &copy; 2008-2014, [Andrew Walker](https://github.com/AndrewWalker "Github Link")
 
