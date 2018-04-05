@@ -15,21 +15,8 @@ for(int i_##arr = 0; i_##arr < sizeof arr / sizeof *arr; ++i_##arr) \
 //-----------------------Mathematical constants
 #define PI 3.14159265
 
-//-----------------------Sensor data that can be computed by the DDDAS approach 
-//#define Rg_straight 17.25 //Best Glide ratio in straight line motion
-//#define Rg_dirty 9
-                                        // cvarela: using g' = g_0*cos(bank_angle) glide ratio
-//#define Rg_20 Rg_straight*cos(20*PI/180) //Best Glide ratio for 20 degree banked turns
-//#define Rg_30 Rg_straight*cos(30*PI/180) //Best Glide ratio for 30 degree banked turns
-//#define Rg_45 Rg_straight*cos(45*PI/180) //Best Glide ratio for 45 degree banked turns
-
 #define OMEGA_30_DEGREE_BANK 0.2832 //rate of change of heading in standard rate turn for 30 degree bank angle =0.2832 rad/second expressed in units
 
-//#define WIND_HEADING 3.14159265 //in radians wrt EAST
-//#define WIND_HEADING 0.0 //in radians wrt EAST
-//#define WIND_HEADING 3.14159265/2.0 //in radians wrt EAST
-//#define WIND_HEADING (3.14159265/2.0)*3.0 //in radians wrt EAST
-//-----------------------Structures that are used 
 
 typedef struct Pair //used to hold new points along heading
 {
