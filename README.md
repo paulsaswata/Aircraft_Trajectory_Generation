@@ -1,6 +1,10 @@
 # Aircraft_Trajectory_Generation 
 
-##### This is the companion code for [Flight Trajectory Planning for Fixed-Wing Aircraft in Loss of Thrust Emergencies](http://wcl.cs.rpi.edu/papers/trajectory_tech_report_oct_17.pdf "Research Paper")
+##### This is the companion code for [Flight Trajectory Planning for Fixed-Wing Aircraft in Loss of Thrust Emergencies.](http://wcl.cs.rpi.edu/papers/trajectory_tech_report_oct_17.pdf "Research Paper")
+
+##### Versions:
+* v_T.xx - generates trajectories with 20, 30 and 45 degree bank angles.
+* v_O.xx - generates trajectories with only one specified bank angle.
 
 ##### Sample Images:
 
