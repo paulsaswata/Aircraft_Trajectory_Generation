@@ -9,8 +9,8 @@
 ##### Sample Images:
 
 <p align="middle">
-  <img src="https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts2d.png" width="45%" />
-  <img src="https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v1.0/src/Sample/parts3d.png" width="45%" /> 
+  <img src="https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v_T1.0/src/Sample/parts2d.png" width="45%" />
+  <img src="https://github.com/paulsaswata/Trajectory_Generation_No_Wind/blob/master/v_T1.0/src/Sample/parts3d.png" width="45%" /> 
 </p>
 
 ##### DISCLAIMER: 
