@@ -26,7 +26,7 @@ This usually has to be manually dealt with in the function `generate_circles()` 
 Once fixed, however, all trajectories to that airport can be generated smoothly.
 * Static memory allocation is prone to `segmentation fault`
 * Static array sizes cannot deal with large number of points
-* In case the initial Dubins (C1->S->C2) has only C1 or only C1->S, the spirals and extended runway o not start
+* In case the initial Dubins (C1->S->C2) has only C1 or only C1->S, the spirals and extended runway do not start
 
 ##### Note: 
 {dubins.c, dubins.h} - Copyright &copy; 2008-2014, [Andrew Walker](https://github.com/AndrewWalker "Github Link")
