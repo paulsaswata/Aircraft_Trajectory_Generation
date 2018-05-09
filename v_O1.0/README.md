@@ -23,7 +23,7 @@ The instructions for using the trajectory generation software are given below:
 ##### Known bugs:
 * Static memory allocation is prone to `segmentation fault`
 * Static array sizes cannot deal with large number of points
-* In case the initial Dubins (C1->S->C2) has only C1 or only C1->S, the spirals and extended runway o not start
+* In case the initial Dubins (C1->S->C2) has only C1 or only C1->S, the spirals and extended runway do not start
 
 ##### Note: 
 {dubins.c, dubins.h} - Copyright &copy; 2008-2014, [Andrew Walker](https://github.com/AndrewWalker "Github Link")
