@@ -1,8 +1,10 @@
 # Aircraft_Trajectory_Generation 
 
-* This version contains some bug fixes over v_O1.0
+#### This version contains the following bug fixes over v_O1.0
 
-The instructions for using the trajectory generation software are given below:
+* Fixed an issue where counter-clockwise turns were not generating proper spirals.
+
+#### The instructions for using the trajectory generation software are given below:
 
 * Create a configuration file with the name `config.txt` in the following format: 
 		`initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio,best_gliding_speed,bank_angle`

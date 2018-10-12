@@ -1,6 +1,6 @@
 # Aircraft_Trajectory_Generation 
 
-The instructions for using the trajectory generation software are given below:
+#### The instructions for using the trajectory generation software are given below:
 
 * Create a configuration file with the name `config.txt` in the following format: 
 		`initial_longitude,initial_latitude,initial_heading,final_longitude,final_latitude,final_heading,initial_altitude,baseline_glide_ratio,dirty_configuration_glide_ratio,best_gliding_speed,bank_angle`
