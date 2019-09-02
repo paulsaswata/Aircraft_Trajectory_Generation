@@ -1,5 +1,11 @@
 # Aircraft_Trajectory_Generation 
 
+#### Before you start:
+
+* For the instructions given below, Python3 is required with Matplotlib and Numpy installed
+
+* The commands have been tested only for linux command line interface 
+
 #### The instructions for using the trajectory generation software are given below:
 
 * Create a configuration file with the name `config.txt` in the following format: 
