@@ -1,5 +1,11 @@
 # Aircraft_Trajectory_Generation 
 
+#### Before you start:
+
+* For the instructions given below, Python3 is required with Matplotlib and Numpy installed
+
+* The commands have been tested only for linux command line interface 
+
 #### This version contains the following bug fixes over v_O1.0
 
 * Fixed an issue where counter-clockwise turns were not generating proper spirals.
